@@ -1,5 +1,5 @@
 # AGB-IPS-MAX-Display-Logos
-![Commodore 64 Logo](preview.jpg)
+![Commodore 64 Logo](main/preview.jpg)
 
 This repository contains fan‑made, original logos designed for the Funnyplaying Max IPS display.
 All artwork here is hand‑created, redrawn, or stylized, no copyrighted assets were extracted from games, ROMs, or firmware.
