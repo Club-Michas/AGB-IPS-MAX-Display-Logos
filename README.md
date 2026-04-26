@@ -59,7 +59,7 @@ Your logo is now flashed to the selected slot.
 
 ## 📝 Notes & Requirements
 
-- Logos **must** be **960×80 BMP** (24‑bit recommended).
+- Logos **must** be **960×80 BMP** (4‑bit / 16‑color, but only 4 colors are actually used).
 - The display can store **10 logos** at once.
 - Uploading a new logo to a slot **overwrites** the previous one.
 - You can switch logos on the device using the Funnyplaying button combo.
