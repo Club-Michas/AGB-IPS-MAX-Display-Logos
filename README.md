@@ -5,3 +5,5 @@ This repository contains fan‑made, original logos designed for the Funnyplayin
 All artwork here is hand‑created, redrawn, or stylized, no copyrighted assets were extracted from games, ROMs, or firmware.
 
 The goal is to build a clean, community‑friendly collection of splash screens, boot logos, and themed graphics for the Funnyplaying Max display.
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
