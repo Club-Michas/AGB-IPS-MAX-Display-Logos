@@ -8,7 +8,7 @@ The goal is to build a clean, community‑friendly collection of splash screens,
 
 # 📤 How to Upload a Custom Logo to the Funnyplaying Max IPS Display
 
-The Funnyplaying Max IPS display stores **up to 10 custom logos** directly on the driver board.  
+The Funnyplaying Max IPS display stores **up to 15 custom logos** directly on the driver board.  
 To upload a new 960×80 BMP logo, you can use either the **online tool** or the **official Windows tool**.
 
 ---
@@ -29,7 +29,7 @@ https://gba-max-tool.chipoftheseus.shop/
 3. Click **Connect to screen**.
 4. Select the **CH340** device when prompted.
 5. Click **Choose file** and select your **960×80 BMP**.
-6. Select a **slot (1-10)**.
+6. Select a **slot (1-15)**.
 7. Click **Upload**.
 8. Wait for the confirmation message.
 
@@ -48,7 +48,7 @@ This is the official Funnyplaying Windows tool.
 3. Find **CH340** and note the COM port number (e.g., COM5).
 4. Open **LogoUpdater.exe**.
 5. Under **The UART Port**, select the COM port you found.
-6. Under **The index of logo to upload**, choose a slot (1–10).
+6. Under **The index of logo to upload**, choose a slot (1–15).
 7. Click **Choose File** and select your **960×80 BMP**.
 8. Click **Start Upload**.
 9. Wait until the progress bar completes.
@@ -60,7 +60,7 @@ Your logo is now flashed to the selected slot.
 ## 📝 Notes & Requirements
 
 - Logos **must** be **960×80 BMP** (4‑bit / 16‑color, but only 4 colors are actually used).
-- The display can store **10 logos** at once.
+- The display can store **15 logos** at once.
 - Uploading a new logo to a slot **overwrites** the previous one.
 - You can switch logos on the device using the Funnyplaying button combo.
 
